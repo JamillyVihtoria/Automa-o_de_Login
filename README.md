@@ -17,8 +17,7 @@ Este foi meu primeiro código de automação utilizando Python + Selenium + PyAu
 - ChromeDriver
 
 # ▶️ Como executar
-- Clone o Repositório: 
- git clone https://github.com/seuusuario/automacao-saucedemo.git
+- Clone o Repositório
 
 - Instale as Dependências:
   pip install selenium pyautogui
