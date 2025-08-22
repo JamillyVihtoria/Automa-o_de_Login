@@ -15,3 +15,15 @@ Este foi meu primeiro código de automação utilizando Python + Selenium + PyAu
 - PyAutoGUI
 - WebDriverWait para sincronização
 - ChromeDriver
+
+# ▶️ Como executar
+- Clone o Repositório: 
+ git clone https://github.com/seuusuario/automacao-saucedemo.git
+
+- Instale as Dependências:
+  pip install selenium pyautogui
+  
+- Baixe e configure o ChromeDriver compatível com a versão do seu navegador:
+  https://developer.chrome.com/docs/chromedriver/downloads?hl=pt-br
+  
+- Execute o script
